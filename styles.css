@@ -617,10 +617,12 @@ margin: 30px;
     justify-content: center;
 }
 .di2 {
+    display: block;
     width: 35%;
     margin-left: 2.5%;
 }
 .di1 {
+    display: block;
     width: 35%;
 }
 
