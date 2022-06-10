@@ -976,6 +976,7 @@ margin: 30px;
     }
     .di2 {
         width: 95%;
+        max-height: 220px;
     }
     .gallery {
         padding-bottom: 20px;
